@@ -1,0 +1,3 @@
+Just a small ruby script to check if urls from a csv file are online.
+Genereates a copy of the original csv file with an extra column for the http response code of the url.
+The file 'urls_for_status_code_checker.csv' is provided as an example or source csv.
